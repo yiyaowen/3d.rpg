@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Mac OS directory property file
+.DS_Store
+
+# Vim swap file
+*.swp
